@@ -21,7 +21,8 @@ Note: The user must be signed in to their colab account to allocate resources an
 6. Change the 'schema' and 'question' variable values in the last cell and execute to test various conversions
 
 
-Note 1: The .py file can be found in this repository
-Note 2: The .ipynb file is also available but may show as "Invalid Notebook". In such a case, please view the notebook live @
+Note 
+1. The .py file can be found in this repository
+2. The .ipynb file is also available but may show as "Invalid Notebook". In such a case, please view the notebook live @
 https://colab.research.google.com/drive/14BJEbyEIFW5oe1j2Nsmi3Bm7ixNhBD3p
 
